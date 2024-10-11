@@ -1,0 +1,2618 @@
+"Account_Domain","Account_Name",ComputerName,"Error_Code",EventCode,EventType,Exception,Function,"Handle_ID",Keywords,LogName,"Logon_ID",Message,"New_Security_Descriptor","Object_Name","Object_Server","Object_Type",OpCode,"Original_Security_Descriptor",Path,"Process_ID","Process_Name",RecordNumber,"ScriptBlock_ID","Security_ID",Sid,SidType,Source,SourceName,TaskCategory,Type,User,Warning,"_raw","_time","date_hour","date_mday","date_minute","date_month","date_second","date_wday","date_year","date_zone",eventtype,flags,host,index,linecount,punct,source,sourcetype,"splunk_server","splunk_server_group",timeendpos,timestartpos
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,46195,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/11/2024 05:00:48 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=46195
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-11T17:00:48.000+0500",17,11,0,october,48,friday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.",,,,,Info,,,,,46191,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/11/2024 05:00:45 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=46191
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.","2024-10-11T17:00:45.000+0500",17,11,0,october,45,friday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha","Unknown HResult Error code: 0x80000000",1,2,,LoadCacheEntriesAsync,,None,"Microsoft-Windows-Store/Operational",,"Corrupted PersistentPerUserCache index, creating a new one (userId = ""0"").
+Error Code: Unknown HResult Error code: 0x80000000
+Function: LoadCacheEntriesAsync
+Source: .\src\Core\WinStore.Core\DataModel\PersistentPerUserCache.CacheIndex.cs (293)",,,,,Info,,,,,164373,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,".\src\Core\WinStore.Core\DataModel\PersistentPerUserCache.CacheIndex.cs (293)","Windows-ApplicationModel-Store-SDK",StorefrontClient,Error,"NOT_TRANSLATED",,"10/10/2024 10:21:34 PM
+LogName=Microsoft-Windows-Store/Operational
+EventCode=1
+EventType=2
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Windows-ApplicationModel-Store-SDK
+Type=Error
+RecordNumber=164373
+Keywords=None
+TaskCategory=StorefrontClient
+OpCode=Info
+Message=Corrupted PersistentPerUserCache index, creating a new one (userId = ""0"").
+Error Code: Unknown HResult Error code: 0x80000000
+Function: LoadCacheEntriesAsync
+Source: .\src\Core\WinStore.Core\DataModel\PersistentPerUserCache.CacheIndex.cs (293)","2024-10-10T22:21:34.000+0500",22,10,21,october,34,thursday,2024,local,,,"AYESHA-MALIHA",main,18,"//_::_=--/===-==-------==---======__,_____(_=_"""").","WinEventLog:Microsoft-Windows-Store/Operational","WinEventLog:Microsoft-Windows-Store/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,45951,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/10/2024 10:01:52 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=45951
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-10T22:01:52.000+0500",22,10,1,october,52,thursday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.",,,,,Info,,,,,45930,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/10/2024 10:01:08 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=45930
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.","2024-10-10T22:01:08.000+0500",22,10,1,october,8,thursday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,45837,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/10/2024 10:00:23 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=45837
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-10T22:00:23.000+0500",22,10,0,october,23,thursday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.",,,,,Info,,,,,45829,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/10/2024 10:00:21 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=45829
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.","2024-10-10T22:00:21.000+0500",22,10,0,october,21,thursday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Test Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,45581,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/10/2024 08:56:34 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=45581
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Test Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-10T20:56:34.000+0500",20,10,56,october,34,thursday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,45537,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/10/2024 08:54:38 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=45537
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-10T20:54:38.000+0500",20,10,54,october,38,thursday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Test Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.",,,,,Info,,,,,45513,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/10/2024 08:54:02 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=45513
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Test Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.","2024-10-10T20:54:02.000+0500",20,10,54,october,2,thursday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.",,,,,Info,,,,,45511,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/10/2024 08:54:02 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=45511
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.","2024-10-10T20:54:02.000+0500",20,10,54,october,2,thursday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Test Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,45500,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/10/2024 08:53:51 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=45500
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Test Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-10T20:53:51.000+0500",20,10,53,october,51,thursday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,45456,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/10/2024 08:51:54 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=45456
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-10T20:51:54.000+0500",20,10,51,october,54,thursday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.",,,,,Info,,,,,45434,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/10/2024 08:49:37 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=45434
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.","2024-10-10T20:49:37.000+0500",20,10,49,october,37,thursday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,45384,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/10/2024 08:45:36 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=45384
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-10T20:45:36.000+0500",20,10,45,october,36,thursday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.",,,,,Info,,,,,45363,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/10/2024 08:45:29 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=45363
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.","2024-10-10T20:45:29.000+0500",20,10,45,october,29,thursday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,45326,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/10/2024 08:45:28 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=45326
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-10T20:45:28.000+0500",20,10,45,october,28,thursday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.",,,,,Info,,,,,45304,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/10/2024 08:44:06 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=45304
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.","2024-10-10T20:44:06.000+0500",20,10,44,october,6,thursday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,45205,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/10/2024 08:39:49 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=45205
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-10T20:39:49.000+0500",20,10,39,october,49,thursday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.",,,,,Info,,,,,45055,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/10/2024 05:27:31 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=45055
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.","2024-10-10T17:27:31.000+0500",17,10,27,october,31,thursday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Test Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,44838,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/09/2024 06:29:59 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=44838
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Test Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-09T18:29:59.000+0500",18,9,29,october,59,wednesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,44834,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/09/2024 06:29:59 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=44834
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-09T18:29:59.000+0500",18,9,29,october,59,wednesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.",,,,,Info,,,,,44825,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/09/2024 06:29:59 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=44825
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.","2024-10-09T18:29:59.000+0500",18,9,29,october,59,wednesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,44772,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/09/2024 06:29:52 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=44772
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-09T18:29:52.000+0500",18,9,29,october,52,wednesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.",,,,,Info,,,,,44768,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/09/2024 06:29:16 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=44768
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.","2024-10-09T18:29:16.000+0500",18,9,29,october,16,wednesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,44761,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/09/2024 06:28:26 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=44761
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-09T18:28:26.000+0500",18,9,28,october,26,wednesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.",,,,,Info,,,,,44758,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/09/2024 06:28:20 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=44758
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.","2024-10-09T18:28:20.000+0500",18,9,28,october,20,wednesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,44725,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/09/2024 06:26:03 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=44725
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-09T18:26:03.000+0500",18,9,26,october,3,wednesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.",,,,,Info,,,,,44723,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/09/2024 06:26:02 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=44723
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.","2024-10-09T18:26:02.000+0500",18,9,26,october,2,wednesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,44717,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/09/2024 06:25:43 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=44717
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-09T18:25:43.000+0500",18,9,25,october,43,wednesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.",,,,,Info,,,,,44716,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/09/2024 06:25:42 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=44716
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.","2024-10-09T18:25:42.000+0500",18,9,25,october,42,wednesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,44711,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/09/2024 06:25:36 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=44711
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-09T18:25:36.000+0500",18,9,25,october,36,wednesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.",,,,,Info,,,,,44705,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/09/2024 06:25:32 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=44705
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.","2024-10-09T18:25:32.000+0500",18,9,25,october,32,wednesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.",,,,,Info,,,,,44648,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/09/2024 06:24:58 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=44648
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 0, old address family 0. New index 15, new address family 0, NDIS_PHYSICAL_MEDIUM 9.","2024-10-09T18:24:58.000+0500",18,9,24,october,58,wednesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,1254,4,,,,"WNP Transport Layer","Microsoft-Windows-PushNotification-Platform/Operational",,"WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.",,,,,Info,,,,,44642,,,"S-1-5-18",0,,"Microsoft-Windows-PushNotifications-Platform",None,Information,"NOT_TRANSLATED",,"10/09/2024 06:24:55 PM
+LogName=Microsoft-Windows-PushNotification-Platform/Operational
+EventCode=1254
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-18
+SidType=0
+SourceName=Microsoft-Windows-PushNotifications-Platform
+Type=Information
+RecordNumber=44642
+Keywords=WNP Transport Layer
+TaskCategory=None
+OpCode=Info
+Message=WNP Transport Layer for Data Connection detected preferred interface change. Old index 15, old address family 0. New index 0, new address family 0, NDIS_PHYSICAL_MEDIUM 0.","2024-10-09T18:24:55.000+0500",18,9,24,october,55,wednesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==---==---===__===_________.___,___","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","WinEventLog:Microsoft-Windows-PushNotification-Platform/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,29,4,,,,Classic,Application,,"The store C:\Users\HP\AppData\Local\Microsoft\Outlook\09-242242-002@student.bahria.edu.pk.nst is being re-pushed to the indexer for the following reason: Index reset (or catalog signature changed), re-push entire store.",,,,,None,,,,,16856,,,,,,Outlook,None,Information,,,"10/07/2024 09:00:41 PM
+LogName=Application
+EventCode=29
+EventType=4
+ComputerName=Ayesha-Maliha
+SourceName=Outlook
+Type=Information
+RecordNumber=16856
+Keywords=Classic
+TaskCategory=None
+OpCode=None
+Message=The store C:\Users\HP\AppData\Local\Microsoft\Outlook\09-242242-002@student.bahria.edu.pk.nst is being re-pushed to the indexer for the following reason: Index reset (or catalog signature changed), re-push entire store.","2024-10-07T21:00:41.000+0500",21,7,0,october,41,monday,2024,local,,,"AYESHA-MALIHA",main,12,"//_::_====-=======__:\\\\\\\--@....___-_______:___","WinEventLog:Application","WinEventLog:Application","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,29,4,,,,Classic,Application,,"The store C:\Users\HP\AppData\Local\Microsoft\Outlook\09-242242-002@student.bahria.edu.pk.ost is being re-pushed to the indexer for the following reason: Index reset (or catalog signature changed), re-push entire store.",,,,,None,,,,,16852,,,,,,Outlook,None,Information,,,"10/07/2024 09:00:34 PM
+LogName=Application
+EventCode=29
+EventType=4
+ComputerName=Ayesha-Maliha
+SourceName=Outlook
+Type=Information
+RecordNumber=16852
+Keywords=Classic
+TaskCategory=None
+OpCode=None
+Message=The store C:\Users\HP\AppData\Local\Microsoft\Outlook\09-242242-002@student.bahria.edu.pk.ost is being re-pushed to the indexer for the following reason: Index reset (or catalog signature changed), re-push entire store.","2024-10-07T21:00:34.000+0500",21,7,0,october,34,monday,2024,local,,,"AYESHA-MALIHA",main,12,"//_::_====-=======__:\\\\\\\--@....___-_______:___","WinEventLog:Application","WinEventLog:Application","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha","Unknown HResult Error code: 0x80000000",1,2,,LoadCacheEntriesAsync,,None,"Microsoft-Windows-Store/Operational",,"Corrupted PersistentPerUserCache index, creating a new one (userId = ""0"").
+Error Code: Unknown HResult Error code: 0x80000000
+Function: LoadCacheEntriesAsync
+Source: .\src\Core\WinStore.Core\DataModel\PersistentPerUserCache.CacheIndex.cs (293)",,,,,Info,,,,,145875,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,".\src\Core\WinStore.Core\DataModel\PersistentPerUserCache.CacheIndex.cs (293)","Windows-ApplicationModel-Store-SDK",StorefrontClient,Error,"NOT_TRANSLATED",,"10/05/2024 01:58:04 PM
+LogName=Microsoft-Windows-Store/Operational
+EventCode=1
+EventType=2
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Windows-ApplicationModel-Store-SDK
+Type=Error
+RecordNumber=145875
+Keywords=None
+TaskCategory=StorefrontClient
+OpCode=Info
+Message=Corrupted PersistentPerUserCache index, creating a new one (userId = ""0"").
+Error Code: Unknown HResult Error code: 0x80000000
+Function: LoadCacheEntriesAsync
+Source: .\src\Core\WinStore.Core\DataModel\PersistentPerUserCache.CacheIndex.cs (293)","2024-10-05T13:58:04.000+0500",13,5,58,october,4,saturday,2024,local,,,"AYESHA-MALIHA",main,18,"//_::_=--/===-==-------==---======__,_____(_=_"""").","WinEventLog:Microsoft-Windows-Store/Operational","WinEventLog:Microsoft-Windows-Store/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,28115,4,,,,None,"Microsoft-Windows-Shell-Core/Operational",,"Shortcut for application Python 3.12 Manuals (64-bit) with ID {6D809377-6AF0-444B-8957-A3773F02200E}\Python312\Doc\html\index.html and flags 0x220 is added to app resolver cache.",,,,,Info,,,,,18739,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,,"Microsoft-Windows-Shell-Core",28141,Information,"NOT_TRANSLATED",,"10/05/2024 10:17:32 AM
+LogName=Microsoft-Windows-Shell-Core/Operational
+EventCode=28115
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Microsoft-Windows-Shell-Core
+Type=Information
+RecordNumber=18739
+Keywords=None
+TaskCategory=28141
+OpCode=Info
+Message=Shortcut for application Python 3.12 Manuals (64-bit) with ID {6D809377-6AF0-444B-8957-A3773F02200E}\Python312\Doc\html\index.html and flags 0x220 is added to app resolver cache.","2024-10-05T10:17:32.000+0500",10,5,17,october,32,saturday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==-------==---======____.__(-)___{-","WinEventLog:Microsoft-Windows-Shell-Core/Operational","WinEventLog:Microsoft-Windows-Shell-Core/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha","Unknown HResult Error code: 0x80000000",1,2,,LoadCacheEntriesAsync,,None,"Microsoft-Windows-Store/Operational",,"Corrupted PersistentPerUserCache index, creating a new one (userId = ""0"").
+Error Code: Unknown HResult Error code: 0x80000000
+Function: LoadCacheEntriesAsync
+Source: .\src\Core\WinStore.Core\DataModel\PersistentPerUserCache.CacheIndex.cs (293)",,,,,Info,,,,,139616,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,".\src\Core\WinStore.Core\DataModel\PersistentPerUserCache.CacheIndex.cs (293)","Windows-ApplicationModel-Store-SDK",StorefrontClient,Error,"NOT_TRANSLATED",,"10/01/2024 09:20:58 PM
+LogName=Microsoft-Windows-Store/Operational
+EventCode=1
+EventType=2
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Windows-ApplicationModel-Store-SDK
+Type=Error
+RecordNumber=139616
+Keywords=None
+TaskCategory=StorefrontClient
+OpCode=Info
+Message=Corrupted PersistentPerUserCache index, creating a new one (userId = ""0"").
+Error Code: Unknown HResult Error code: 0x80000000
+Function: LoadCacheEntriesAsync
+Source: .\src\Core\WinStore.Core\DataModel\PersistentPerUserCache.CacheIndex.cs (293)","2024-10-01T21:20:58.000+0500",21,1,20,october,58,tuesday,2024,local,,,"AYESHA-MALIHA",main,18,"//_::_=--/===-==-------==---======__,_____(_=_"""").","WinEventLog:Microsoft-Windows-Store/Operational","WinEventLog:Microsoft-Windows-Store/Operational","Ayesha-Maliha",,23,0
+WORKGROUP,"AYESHA-MALIHA$","Ayesha-Maliha",,4907,0,,,0x88,"Audit Success",Security,0x3E7,"Auditing settings on object were changed.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		AYESHA-MALIHA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Object:
+	Object Server:	Security
+	Object Type:	File
+	Object Name:	C:\Windows\WinSxS\FileMaps\$$_diagnostics_index_6f9ad1a80c4f7ad6.cdf-ms
+	Handle ID:	0x88
+
+Process Information:
+	Process ID:	0x538c
+	Process Name:	C:\Windows\System32\poqexec.exe
+
+Auditing Settings:
+	Original Security Descriptor:	
+	New Security Descriptor:		S:ARAI(AU;SAFA;0x1f0116;;;WD)","S:ARAI(AU;SAFA;0x1f0116;;;WD)","C:\Windows\WinSxS\FileMaps\$$_diagnostics_index_6f9ad1a80c4f7ad6.cdf-ms",Security,File,Info,,,0x538c,"C:\Windows\System32\poqexec.exe",58077,,"S-1-5-18",,,,"Microsoft Windows security auditing.","Audit Policy Change",Information,,,"09/29/2024 09:27:27 PM
+LogName=Security
+EventCode=4907
+EventType=0
+ComputerName=Ayesha-Maliha
+SourceName=Microsoft Windows security auditing.
+Type=Information
+RecordNumber=58077
+Keywords=Audit Success
+TaskCategory=Audit Policy Change
+OpCode=Info
+Message=Auditing settings on object were changed.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		AYESHA-MALIHA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Object:
+	Object Server:	Security
+	Object Type:	File
+	Object Name:	C:\Windows\WinSxS\FileMaps\$$_diagnostics_index_6f9ad1a80c4f7ad6.cdf-ms
+	Handle ID:	0x88
+
+Process Information:
+	Process ID:	0x538c
+	Process Name:	C:\Windows\System32\poqexec.exe
+
+Auditing Settings:
+	Original Security Descriptor:	
+	New Security Descriptor:		S:ARAI(AU;SAFA;0x1f0116;;;WD)","2024-09-29T21:27:27.000+0500",21,29,27,september,27,sunday,2024,local,,,"AYESHA-MALIHA",main,32,"//_::_====-=___.===_=__==_____.\r\r:\rt_:tt---\rt_:tt-","WinEventLog:Security","WinEventLog:Security","Ayesha-Maliha",,23,0
+WORKGROUP,"AYESHA-MALIHA$","Ayesha-Maliha",,4907,0,,,0x78,"Audit Success",Security,0x3E7,"Auditing settings on object were changed.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		AYESHA-MALIHA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Object:
+	Object Server:	Security
+	Object Type:	File
+	Object Name:	C:\Windows\WinSxS\FileMaps\$$_diagnostics_index_6f9ad1a80c4f7ad6.cdf-ms
+	Handle ID:	0x78
+
+Process Information:
+	Process ID:	0x3d7c
+	Process Name:	C:\Windows\System32\poqexec.exe
+
+Auditing Settings:
+	Original Security Descriptor:	
+	New Security Descriptor:		S:ARAI(AU;SAFA;0x1f0116;;;WD)","S:ARAI(AU;SAFA;0x1f0116;;;WD)","C:\Windows\WinSxS\FileMaps\$$_diagnostics_index_6f9ad1a80c4f7ad6.cdf-ms",Security,File,Info,,,0x3d7c,"C:\Windows\System32\poqexec.exe",50046,,"S-1-5-18",,,,"Microsoft Windows security auditing.","Audit Policy Change",Information,,,"09/04/2024 09:30:35 PM
+LogName=Security
+EventCode=4907
+EventType=0
+ComputerName=Ayesha-Maliha
+SourceName=Microsoft Windows security auditing.
+Type=Information
+RecordNumber=50046
+Keywords=Audit Success
+TaskCategory=Audit Policy Change
+OpCode=Info
+Message=Auditing settings on object were changed.
+
+Subject:
+	Security ID:		S-1-5-18
+	Account Name:		AYESHA-MALIHA$
+	Account Domain:		WORKGROUP
+	Logon ID:		0x3E7
+
+Object:
+	Object Server:	Security
+	Object Type:	File
+	Object Name:	C:\Windows\WinSxS\FileMaps\$$_diagnostics_index_6f9ad1a80c4f7ad6.cdf-ms
+	Handle ID:	0x78
+
+Process Information:
+	Process ID:	0x3d7c
+	Process Name:	C:\Windows\System32\poqexec.exe
+
+Auditing Settings:
+	Original Security Descriptor:	
+	New Security Descriptor:		S:ARAI(AU;SAFA;0x1f0116;;;WD)","2024-09-04T21:30:35.000+0500",21,4,30,september,35,wednesday,2024,local,,,"AYESHA-MALIHA",main,32,"//_::_====-=___.===_=__==_____.\r\r:\rt_:tt---\rt_:tt-","WinEventLog:Security","WinEventLog:Security","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,2000,4,,,,None,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational",,"The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\NetworkDiagnostics_4_NetworkAdapter.xml.",,,,,Info,,,,,14,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider",None,Information,"NOT_TRANSLATED",,"08/27/2024 09:14:28 PM
+LogName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+EventCode=2000
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider
+Type=Information
+RecordNumber=14
+Keywords=None
+TaskCategory=None
+OpCode=Info
+Message=The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\NetworkDiagnostics_4_NetworkAdapter.xml.","2024-08-27T21:14:28.000+0500",21,27,14,august,28,tuesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==-------==---======_________:\\\\.","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,2000,4,,,,None,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational",,"The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\NetworkDiagnostics_2_FileShare.xml.",,,,,Info,,,,,13,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider",None,Information,"NOT_TRANSLATED",,"08/27/2024 09:14:28 PM
+LogName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+EventCode=2000
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider
+Type=Information
+RecordNumber=13
+Keywords=None
+TaskCategory=None
+OpCode=Info
+Message=The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\NetworkDiagnostics_2_FileShare.xml.","2024-08-27T21:14:28.000+0500",21,27,14,august,28,tuesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==-------==---======_________:\\\\.","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,2000,4,,,,None,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational",,"The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\NetworkDiagnostics_1_Web.xml.",,,,,Info,,,,,12,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider",None,Information,"NOT_TRANSLATED",,"08/27/2024 09:14:28 PM
+LogName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+EventCode=2000
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider
+Type=Information
+RecordNumber=12
+Keywords=None
+TaskCategory=None
+OpCode=Info
+Message=The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\NetworkDiagnostics_1_Web.xml.","2024-08-27T21:14:28.000+0500",21,27,14,august,28,tuesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==-------==---======_________:\\\\.","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,2000,4,,,,None,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational",,"The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\MaintenanceDiagnostic.xml.",,,,,Info,,,,,11,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider",None,Information,"NOT_TRANSLATED",,"08/27/2024 09:14:28 PM
+LogName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+EventCode=2000
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider
+Type=Information
+RecordNumber=11
+Keywords=None
+TaskCategory=None
+OpCode=Info
+Message=The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\MaintenanceDiagnostic.xml.","2024-08-27T21:14:28.000+0500",21,27,14,august,28,tuesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==-------==---======_________:\\\\.","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,2000,4,,,,None,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational",,"The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\KeyboardDiagnostic.xml.",,,,,Info,,,,,10,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider",None,Information,"NOT_TRANSLATED",,"08/27/2024 09:14:28 PM
+LogName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+EventCode=2000
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider
+Type=Information
+RecordNumber=10
+Keywords=None
+TaskCategory=None
+OpCode=Info
+Message=The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\KeyboardDiagnostic.xml.","2024-08-27T21:14:28.000+0500",21,27,14,august,28,tuesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==-------==---======_________:\\\\.","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,2000,4,,,,None,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational",,"The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\IESecurityDiagnostic.xml.",,,,,Info,,,,,9,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider",None,Information,"NOT_TRANSLATED",,"08/27/2024 09:14:28 PM
+LogName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+EventCode=2000
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider
+Type=Information
+RecordNumber=9
+Keywords=None
+TaskCategory=None
+OpCode=Info
+Message=The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\IESecurityDiagnostic.xml.","2024-08-27T21:14:28.000+0500",21,27,14,august,28,tuesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==-------==---======_________:\\\\.","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,2000,4,,,,None,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational",,"The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\IEBrowseWebDiagnostic.xml.",,,,,Info,,,,,8,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider",None,Information,"NOT_TRANSLATED",,"08/27/2024 09:14:28 PM
+LogName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+EventCode=2000
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider
+Type=Information
+RecordNumber=8
+Keywords=None
+TaskCategory=None
+OpCode=Info
+Message=The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\IEBrowseWebDiagnostic.xml.","2024-08-27T21:14:28.000+0500",21,27,14,august,28,tuesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==-------==---======_________:\\\\.","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,2000,4,,,,None,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational",,"The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\DeviceDiagnostic.xml.",,,,,Info,,,,,7,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider",None,Information,"NOT_TRANSLATED",,"08/27/2024 09:14:28 PM
+LogName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+EventCode=2000
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider
+Type=Information
+RecordNumber=7
+Keywords=None
+TaskCategory=None
+OpCode=Info
+Message=The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\DeviceDiagnostic.xml.","2024-08-27T21:14:28.000+0500",21,27,14,august,28,tuesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==-------==---======_________:\\\\.","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,2000,4,,,,None,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational",,"The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\DeviceCenterDiagnostic.xml.",,,,,Info,,,,,6,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider",None,Information,"NOT_TRANSLATED",,"08/27/2024 09:14:28 PM
+LogName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+EventCode=2000
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider
+Type=Information
+RecordNumber=6
+Keywords=None
+TaskCategory=None
+OpCode=Info
+Message=The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\DeviceCenterDiagnostic.xml.","2024-08-27T21:14:28.000+0500",21,27,14,august,28,tuesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==-------==---======_________:\\\\.","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,2000,4,,,,None,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational",,"The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\BluetoothDiagnostic.xml.",,,,,Info,,,,,5,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider",None,Information,"NOT_TRANSLATED",,"08/27/2024 09:14:28 PM
+LogName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+EventCode=2000
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider
+Type=Information
+RecordNumber=5
+Keywords=None
+TaskCategory=None
+OpCode=Info
+Message=The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\BluetoothDiagnostic.xml.","2024-08-27T21:14:28.000+0500",21,27,14,august,28,tuesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==-------==---======_________:\\\\.","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,2000,4,,,,None,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational",,"The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\BITSDiagnostic.xml.",,,,,Info,,,,,4,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider",None,Information,"NOT_TRANSLATED",,"08/27/2024 09:14:28 PM
+LogName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+EventCode=2000
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider
+Type=Information
+RecordNumber=4
+Keywords=None
+TaskCategory=None
+OpCode=Info
+Message=The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\BITSDiagnostic.xml.","2024-08-27T21:14:28.000+0500",21,27,14,august,28,tuesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==-------==---======_________:\\\\.","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,2000,4,,,,None,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational",,"The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\AudioRecordingDiagnostic.xml.",,,,,Info,,,,,3,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider",None,Information,"NOT_TRANSLATED",,"08/27/2024 09:14:28 PM
+LogName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+EventCode=2000
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider
+Type=Information
+RecordNumber=3
+Keywords=None
+TaskCategory=None
+OpCode=Info
+Message=The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\AudioRecordingDiagnostic.xml.","2024-08-27T21:14:28.000+0500",21,27,14,august,28,tuesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==-------==---======_________:\\\\.","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,2000,4,,,,None,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational",,"The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\AudioPlaybackDiagnostic.xml.",,,,,Info,,,,,2,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider",None,Information,"NOT_TRANSLATED",,"08/27/2024 09:14:28 PM
+LogName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+EventCode=2000
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider
+Type=Information
+RecordNumber=2
+Keywords=None
+TaskCategory=None
+OpCode=Info
+Message=The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\AudioPlaybackDiagnostic.xml.","2024-08-27T21:14:28.000+0500",21,27,14,august,28,tuesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==-------==---======_________:\\\\.","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,2000,4,,,,None,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational",,"The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\AppsDiagnostic.xml.",,,,,Info,,,,,1,,,"S-1-5-21-663109325-190050996-3763433200-1001",0,,"Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider",None,Information,"NOT_TRANSLATED",,"08/27/2024 09:14:28 PM
+LogName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational
+EventCode=2000
+EventType=4
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider
+Type=Information
+RecordNumber=1
+Keywords=None
+TaskCategory=None
+OpCode=Info
+Message=The diagnostic package index information was successfully loaded from C:\Windows\Diagnostics\Index\AppsDiagnostic.xml.","2024-08-27T21:14:28.000+0500",21,27,14,august,28,tuesday,2024,local,,,"AYESHA-MALIHA",main,15,"//_::_=---/===-==-------==---======_________:\\\\.","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","WinEventLog:Microsoft-Windows-Diagnosis-ScriptedDiagnosticsProvider/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,4104,3,,,,None,"Microsoft-Windows-PowerShell/Operational",,"Creating Scriptblock text (2 of 5):
+n root causes, and constant across reruns
+    #     If no repairs, then the root cause text hash code is used
+
+    $hashCode = 0
+    $rootCauseID = 0
+
+    #find the first repair for this root cause
+    $rootCauseCount = $RootCauses.Count
+    $RootCauses.Reset()
+    for($i=0; $i -lt $rootCauseCount; $i++)
+    {
+        $rootCause=$RootCauses.Next;
+
+        #root cause index is the index of the root cause in the root cause list
+        #find the specific root cause
+        if($i -eq $RootCauseIndex)
+        {
+            break;
+        }
+    }
+
+    if($i -eq $rootCauseCount)
+    {
+        throw ""Could not find a root cause with index "" + $RootCauseIndex;
+    }
+
+    return GetInstanceIDRC($rootCause) ($CatchAlls) ($CatchAllsAltRC);
+}
+
+function GetSkipReasonText($Reason)
+{
+    #this is for debug, OK to not localize
+    if($Reason -eq $NDF_SKIPREASON_ADAPTER)
+    {
+        return ""An interactive fix for another network interface has been attempted.""
+    }
+    elseif($Reason -eq $NDF_SKIPREASON_DUPLICATE)
+    {
+        return ""Another repair with the same ID applying to the same network interface has been attempted.""
+    }
+}
+
+function InContextEntry()
+{
+    $IT_HelperClassName = Get-DiagInput -ID ""IT_HelperClassName""
+    if($IT_HelperClassName -eq $null   -or  $IT_HelperClassName[0].Length -eq 0) {
+      #Failed retriving HelperClassName from In-Context answer file
+      return $null
+    }
+
+    #get input attributes
+    $IT_HelperAttributes = Get-DiagInput -ID ""IT_HelperAttributes""
+    if($IT_HelperAttributes -eq $null) {
+      #Failed retriving HelperAttributes from In-Context answer file
+      return $null
+    }
+
+    return @{""HelperClassName"" = $IT_HelperClassName; ""HelperAttributes"" = $IT_HelperAttributes}
+}
+
+function EscapeForRTF($Text)
+{
+    $textToEscape = $Text.Replace(""\"",""\\"")
+
+    $sb = New-Object System.Text.StringBuilder $textToEscape.Length;
+    for($i=0; $i -lt $textToEscape.Length; $i++)
+    {
+        $curChar = $textToEscape[$i];
+        if($curChar -eq '\n')
+        {
+            $null = $sb.Append(""\par"");
+        }
+        elseif(($curChar -lt 0x20) -or ($curChar -eq '{') -or ($curChar -eq '}') -or ($curChar -eq '\\'))
+        {
+            $null = $sb.Append(""\'"");
+            $null = $sb.Append(([int]$curChar).ToString(""X2"", [System.Globalization.CultureInfo]::InvariantCulture));
+        }
+        elseif($curChar -lt 0x80)
+        {
+            $null = $sb.Append($curChar);
+        }
+        else
+        {
+            $null = $sb.Append(""\u"");
+            $null = $sb.Append(([int]$curChar).ToString([System.Globalization.CultureInfo]::InvariantCulture));
+            $null = $sb.Append('?');
+        }
+
+    }
+
+   return $sb.ToString();
+
+}
+
+function IsValidURL($URL)
+{
+    &{
+        $uri = [System.URI]($URL);
+        $scheme = $uri.scheme;
+        if(($scheme -eq ""http"" ) -or ($scheme -eq ""https"") -or ($scheme -eq ""ftp""))
+        {
+            return $uri.ToString();
+        }
+        else
+        {
+            return $null;
+        }
+    }
+     trap [Exception]
+    {
+        return $null;
+    }
+}
+
+function GetDefaultBrowser()
+{
+    [string]$assocString = $null
+    $dll = ""NetworkDiagnosticSnapIn.dll""
+
+    try
+    {
+        RegSnapin $dll
+    
+        $assocString = [Microsoft.Windows.Diagnosis.Network.AssociationInfo]::GetAssociation(""http"",""open"");
+        trap [Exception]
+        {
+            $assocString = $null;
+        }
+    }
+    finally
+    {
+        UnregSnapin $dll
+    }
+
+    return $assocString;
+}
+
+function GetWebNDFIncidentData($URL, $DefaultConnectivity)
+{
+    #build entry point parameters
+    $haXML = ""<HelperAttributes><HelperAttribute><Name>URL</Name><Type>AT_STRING</Type><Value><![CDATA["" + $URL +  ""]]></Value></HelperAttribute>""
+    if($DefaultConnectivity)
+    {
+        #sqm explorer as the client rather than sdiaghost.exe
+        $haXML += ""<HelperAttribute><Name>NDFSQMCallerApplication</Name><Type>AT_STRING</Type><Value>Windows\Explorer.EXE</Value></HelperAttribute>""
+        $defaultBrowser = GetDefaultBrowser;
+        if($defaultBrowser)
+        {
+            $haXML += ""<HelperAttribute><Name>AppID</Name><Type>AT_STRING</Type><Value>""+ $defaultBrowser + ""</Value></HelperAttribute>""
+        }
+    }
+    $haXML += ""</HelperAttributes>""
+    return @{""HelperClassName"" = ""WinInetHelperClass""; ""HelperAttributes"" =$haXML}
+}
+
+function GetValidURL($CandidateURL)
+{
+    $toReturn = $null
+    $url = IsValidURL $CandidateURL
+    if($url -eq $null)
+    {
+        if($CandidateURL.IndexOf(""://"") -eq -1)
+        {
+            $updatedURL = ""http://"" + $CandidateURL
+            $url = IsValidURL $updatedURL
+            if($url)
+            {
+                $toReturn = $url
+            }
+        }
+    }
+    else
+    {
+        $toReturn = $url
+    }
+
+    return $toReturn
+}
+
+function GetErrorRTF($Description, $Error)
+{
+  $escapedDesc = EscapeForRTF $Description;
+  $escapedError = EscapeForRTF $Error;
+  $rtf = LoadResourceString($ERROR_MSG_RTF_RESOURCE);
+  return $rtf.Replace(""%DESC%"", $escapedDesc).Replace(""%ERROR%"", $escapedError);
+}
+
+function WebEntry()
+{
+    $IT_WebChoice = Get-DiagInput -ID ""IT_WebChoice""
+    if($IT_WebChoice -eq $null)
+    {
+          #Failed retriving Web Choice
+          return $null
+    }
+
+    $IT_URL = $DefaultDiagURL
+    if(!($IT_WebChoice -eq ""Internet""))
+    {
+        $IT_URL = Get-DiagInput -ID ""IT_URL""
+        if($IT_URL -eq $null) {
+          #Failed retriving URL
+          return $null
+        }
+
+        #verify that it is a valid URL
+        $validURL = GetValidURL $IT_URL[0]
+        while($validURL -eq $null)
+        {
+                #build the RTF text
+                $replacedError = [System.String]::Format([System.Globalization.CultureInfo]::InvariantCulture, $localizationString.interaction_InvalidURL_FormatError, $IT_URL[0]);
+                $RTFText = GetErrorRTF ($localizationString.interaction_InvalidURL_Desc) ($replacedError);
+
+                #reprompt for input
+                $IT_URL = Get-DiagInput -ID ""IT_Invalid_URL"" -p @{""URL"" = $IT_URL; ""RTFText"" = $RTFText}
+                if($IT_URL -eq $null) {
+                      #Failed retriving URL
+                      return $null
+                }
+
+                $validURL = GetValidURL $IT_URL[0]
+        }
+    }
+
+    return GetWebNDFIncidentData $validURL $false
+}
+
+function IsUNCFormat($UNC)
+{
+     &{
+        $uri = [System.URI]($UNC);
+        $scheme = $uri.scheme;
+        if(($scheme -eq ""file"" ))
+        {
+            if($uri.IsUnc)
+            {
+                return $uri.LocalPath;
+            }
+        }
+        return $null;
+    }
+     trap [Exception]
+    {
+        return $null;
+    }
+}
+
+#function assumes passed in UNC is in \\host\share form (share can be missing)
+function ContainsInvalidUNCChars($UNC)
+{
+    &{
+        #will return an exception if the string has invalid characters
+        $ignoreResult = [System.IO.Path]::IsPathRooted($UNC)
+
+        #check the path for invalid characters
+        #remove the starting slashes
+        $tmp = $UNC.Substring(2)
+        $nextSlash = $tmp.IndexOf(""\"")
+        if(($nextSlash -lt 0) -or ($nextSlash -eq ($nextSlash.Length - 1)))
+        {
+            #string only contains hostname
+            #hostname is already validated in IsUNCFormat function
+            return $false
+        }
+        #remove host and backslash after host
+        $UNCPath = $tmp.Substring($nextSlash+1)
+
+        #under certain circumstances some of these make it through the above check
+        #so we do a direct sanity check here
+        if(!($UNCPath.IndexOfAny(@('/',':','*','?','""','<','>','|')) -eq -1))
+        {
+            return $true;
+        }
+
+        return $false;
+    }
+    trap [Exception]
+    {
+        return $true;
+    }
+}
+
+function GetValidUNC($CandidateUNC)
+{
+    $toReturn = $null
+
+    #is it valid
+    $unc = IsUNCFormat $CandidateUNC
+    if($unc)
+    {
+        $invalidChars = ContainsInvalidUNCChars $unc
+        if($invalidChars)
+        {
+            $toReturn = -1;
+        }
+        else
+        {
+            $toReturn = $unc
+        }
+    }
+
+    return $toReturn;
+}
+
+
+function GetUNCNDFIncidentData($UNC)
+{
+    #build entry point parameters
+    $haXML = ""<HelperAttributes><HelperAttribute><Name>UNCPath</Name><Type>AT_STRING</Type><Value><![CDATA["" + $UNC +  ""]]></Value></HelperAttribute></HelperAttributes>""
+    return @{""HelperClassName"" = ""SMBHelperClass""; ""HelperAttributes"" =$haXML}
+}
+
+function FileSharingEntry()
+{
+    $IT_UNC = Get-DiagInput -ID ""IT_UNC""
+    if($IT_UNC -eq $null) {
+      #Failed retriving UNC path
+      return $null
+    }
+
+    #assign input to non-array variable to facilitate usage and transform
+    $validUNC = GetValidUNC $IT_UNC[0]
+    while((!$validUNC) -or ($validUNC -eq -1))
+    {
+        #build the RTF text
+        #use original entry for re-prompt even though ""file://"" UNC may have been transformed
+        $replacedError = """";
+        if(!$validUNC)
+        {
+            $replacedError = [System.String]::Format([System.Globalization.CultureInfo]::InvariantCulture, $localizationString.interaction_InvalidUNC_FormatError, $IT_UNC[0]);
+        }
+        else
+        {
+            $replacedError = [System.String]::Format([System.Globalization.CultureInfo]::InvariantCulture, $localizationString.interaction_InvalidUNC_CharError, $IT_UNC[0]);
+        }
+        $RTFText = GetErrorRTF ($localizationString.interaction_InvalidUNC_Desc) ($replacedError);
+
+        #reprompt for input
+        $IT_UNC = Get-DiagInput -ID ""IT_Invalid_UNC"" -p @{""UNC"" = $IT_UNC; ""RTFText"" = $RTFText}
+        if($IT_UNC -eq $null) {
+              #Failed retriving UNC path
+              return $null
+        }
+
+        $validUNC = GetValidUNC $IT_UNC[0]
+    }
+
+    return GetUNCNDFIncidentData $validUNC
+}
+
+function NetworkAdapterEntry()
+{
+    #enumerate interfaces to build options list
+    $interfaces = get-wmiobject -class Win32_NetworkAdapter
+    #hash table with options
+    $optionList = @()
+    foreach($curInterface in $interfaces)
+    {
+        if($curInterface.GUID -ne $null)
+        {
+              $curHash = @{""Name""=$curInterface.NetConnectionID}
+              $curHash += @{""Description""=$curInterface.NetConnectionID}
+              $curHash += @{""Value""=$curInterface.GUID}
+
+              $optionList += @($curHash)
+        }
+    }
+
+    if($optionList.Count -gt 1)
+    {
+        #add zero guid entry to check all interfaces
+        $optionList += @(@{""Name""=$localizationString.interaction_AllAdapters; ""Description""=$localizationString.interaction_AllAdapters; ""Value""=""{00000000-0000-0000-0000-000000000000}""; ""ExtensionPoint""=""<Default />""})
+
+        #get interface selection from user
+        $IT_NetworkAdapter = Get-DiagInput -ID ""IT_NetworkAdapter"" -c $optionList
+
+        if($IT_NetworkAdapter -eq $null) {
+           throw ""Failed retriving Network Connetion ID from user""
+        }
+    }
+    elseif($optionList.Count -eq 1)
+    {
+        $IT_NetworkAdapter = $optionList[0][""Value""]
+    }
+    else
+    {
+        #No NICs, do zero GUID diag
+        $IT_NetworkAdapter = ""{00000000-0000-0000-0000-000000000000}""
+    }
+
+    #build entry point parameters
+    $haXML = ""<HelperAttributes><HelperAttribute><Name>guid</Name><Type>AT_GUID</Type><Value>"" + $IT_NetworkAdapter +  ""</Value></HelperAttribute></HelperAttributes>""
+    return @{""HelperClassName"" = ""NetConnection""; ""HelperAttributes"" =$haXML}
+}
+
+function WinsockEntry()
+{
+    $IT_RemoteAddress = Get-DiagInput -ID ""IT_RemoteAddress""
+    if($IT_RemoteAddress -eq $null -or  $IT_RemoteAddress[0].Length -eq 0) {
+      #Failed retriving Remote Address
+      return $null
+    }
+
+    $IT_Protocol = Get-DiagInput -ID ""IT_Protocol""
+    if($IT_Protocol -eq $null -or  $IT_Protocol[0].Length -eq 0) {
+      #Failed retriving Remote Port
+      return $null
+    }
+
+    $IT_ApplicationID = Get-DiagInput -ID ""IT_ApplicationID""
+    if($IT_ApplicationID -eq $null -or  $IT_ApplicationID[0].Length -eq 0) {
+      #Failed retriving Application ID
+      return $null
+    }
+
+    #build entry point parameters
+    $haXML = ""<HelperAttributes><HelperAttribute><Name>remoteaddr</Name><Type>AT_SOCKADDR</Type><Value>"" + $IT_RemoteAddress  +  ""</Value></HelperAttribute>"";
+    $haXML += ""<Hel
+
+ScriptBlock ID: 82e65e4b-cb92-4fb0-a859-891d218c9615
+Path: C:\Users\HP\AppData\Local\Temp\SDIAG_f83a9f43-235e-4974-ba5a-90864270ee15\UtilityFunctions.ps1",,,,,"On create calls",,"C:\Users\HP\AppData\Local\Temp\SDIAG_f83a9f43-235e-4974-ba5a-90864270ee15\UtilityFunctions.ps1",,,3,"82e65e4b-cb92-4fb0-a859-891d218c9615",,"S-1-5-21-663109325-190050996-3763433200-1001",0,,"Microsoft-Windows-PowerShell","Execute a Remote Command",Warning,"NOT_TRANSLATED",,"07/07/2024 09:20:07 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+EventCode=4104
+EventType=3
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Microsoft-Windows-PowerShell
+Type=Warning
+RecordNumber=3
+Keywords=None
+TaskCategory=Execute a Remote Command
+OpCode=On create calls
+Message=Creating Scriptblock text (2 of 5):
+n root causes, and constant across reruns
+    #     If no repairs, then the root cause text hash code is used
+
+    $hashCode = 0
+    $rootCauseID = 0
+
+    #find the first repair for this root cause
+    $rootCauseCount = $RootCauses.Count
+    $RootCauses.Reset()
+    for($i=0; $i -lt $rootCauseCount; $i++)
+    {
+        $rootCause=$RootCauses.Next;
+
+        #root cause index is the index of the root cause in the root cause list
+        #find the specific root cause
+        if($i -eq $RootCauseIndex)
+        {
+            break;
+        }
+    }
+
+    if($i -eq $rootCauseCount)
+    {
+        throw ""Could not find a root cause with index "" + $RootCauseIndex;
+    }
+
+    return GetInstanceIDRC($rootCause) ($CatchAlls) ($CatchAllsAltRC);
+}
+
+function GetSkipReasonText($Reason)
+{
+    #this is for debug, OK to not localize
+    if($Reason -eq $NDF_SKIPREASON_ADAPTER)
+    {
+        return ""An interactive fix for another network interface has been attempted.""
+    }
+    elseif($Reason -eq $NDF_SKIPREASON_DUPLICATE)
+    {
+        return ""Another repair with the same ID applying to the same network interface has been attempted.""
+    }
+}
+
+function InContextEntry()
+{
+    $IT_HelperClassName = Get-DiagInput -ID ""IT_HelperClassName""
+    if($IT_HelperClassName -eq $null   -or  $IT_HelperClassName[0].Length -eq 0) {
+      #Failed retriving HelperClassName from In-Context answer file
+      return $null
+    }
+
+    #get input attributes
+    $IT_HelperAttributes = Get-DiagInput -ID ""IT_HelperAttributes""
+    if($IT_HelperAttributes -eq $null) {
+      #Failed retriving HelperAttributes from In-Context answer file
+      return $null
+    }
+
+    return @{""HelperClassName"" = $IT_HelperClassName; ""HelperAttributes"" = $IT_HelperAttributes}
+}
+
+function EscapeForRTF($Text)
+{
+    $textToEscape = $Text.Replace(""\"",""\\"")
+
+    $sb = New-Object System.Text.StringBuilder $textToEscape.Length;
+    for($i=0; $i -lt $textToEscape.Length; $i++)
+    {
+        $curChar = $textToEscape[$i];
+        if($curChar -eq '\n')
+        {
+            $null = $sb.Append(""\par"");
+        }
+        elseif(($curChar -lt 0x20) -or ($curChar -eq '{') -or ($curChar -eq '}') -or ($curChar -eq '\\'))
+        {
+            $null = $sb.Append(""\'"");
+            $null = $sb.Append(([int]$curChar).ToString(""X2"", [System.Globalization.CultureInfo]::InvariantCulture));
+        }
+        elseif($curChar -lt 0x80)
+        {
+            $null = $sb.Append($curChar);
+        }
+        else
+        {
+            $null = $sb.Append(""\u"");
+            $null = $sb.Append(([int]$curChar).ToString([System.Globalization.CultureInfo]::InvariantCulture));
+            $null = $sb.Append('?');
+        }
+
+    }
+
+   return $sb.ToString();
+
+}
+
+function IsValidURL($URL)
+{
+    &{
+        $uri = [System.URI]($URL);
+        $scheme = $uri.scheme;
+        if(($scheme -eq ""http"" ) -or ($scheme -eq ""https"") -or ($scheme -eq ""ftp""))
+        {
+            return $uri.ToString();
+        }
+        else
+        {
+            return $null;
+        }
+    }
+     trap [Exception]
+    {
+        return $null;
+    }
+}
+
+function GetDefaultBrowser()
+{
+    [string]$assocString = $null
+    $dll = ""NetworkDiagnosticSnapIn.dll""
+
+    try
+    {
+        RegSnapin $dll
+    
+        $assocString = [Microsoft.Windows.Diagnosis.Network.AssociationInfo]::GetAssociation(""http"",""open"");
+        trap [Exception]
+        {
+            $assocString = $null;
+        }
+    }
+    finally
+    {
+        UnregSnapin $dll
+    }
+
+    return $assocString;
+}
+
+function GetWebNDFIncidentData($URL, $DefaultConnectivity)
+{
+    #build entry point parameters
+    $haXML = ""<HelperAttributes><HelperAttribute><Name>URL</Name><Type>AT_STRING</Type><Value><![CDATA["" + $URL +  ""]]></Value></HelperAttribute>""
+    if($DefaultConnectivity)
+    {
+        #sqm explorer as the client rather than sdiaghost.exe
+        $haXML += ""<HelperAttribute><Name>NDFSQMCallerApplication</Name><Type>AT_STRING</Type><Value>Windows\Explorer.EXE</Value></HelperAttribute>""
+        $defaultBrowser = GetDefaultBrowser;
+        if($defaultBrowser)
+        {
+            $haXML += ""<HelperAttribute><Name>AppID</Name><Type>AT_STRING</Type><Value>""+ $defaultBrowser + ""</Value></HelperAttribute>""
+        }
+    }
+    $haXML += ""</HelperAttributes>""
+    return @{""HelperClassName"" = ""WinInetHelperClass""; ""HelperAttributes"" =$haXML}
+}
+
+function GetValidURL($CandidateURL)
+{
+    $toReturn = $null
+    $url = IsValidURL $CandidateURL
+    if($url -eq $null)
+    {
+        if($CandidateURL.IndexOf(""://"") -eq -1)
+        {
+            $updatedURL = ""http://"" + $CandidateURL
+            $url = IsValidURL $updatedURL
+            if($url)
+            {
+                $toReturn = $url
+            }
+        }
+    }
+    else
+    {
+        $toReturn = $url
+    }
+
+    return $toReturn
+}
+
+function GetErrorRTF($Description, $Error)
+{
+  $escapedDesc = EscapeForRTF $Description;
+  $escapedError = EscapeForRTF $Error;
+  $rtf = LoadResourceString($ERROR_MSG_RTF_RESOURCE);
+  return $rtf.Replace(""%DESC%"", $escapedDesc).Replace(""%ERROR%"", $escapedError);
+}
+
+function WebEntry()
+{
+    $IT_WebChoice = Get-DiagInput -ID ""IT_WebChoice""
+    if($IT_WebChoice -eq $null)
+    {
+          #Failed retriving Web Choice
+          return $null
+    }
+
+    $IT_URL = $DefaultDiagURL
+    if(!($IT_WebChoice -eq ""Internet""))
+    {
+        $IT_URL = Get-DiagInput -ID ""IT_URL""
+        if($IT_URL -eq $null) {
+          #Failed retriving URL
+          return $null
+        }
+
+        #verify that it is a valid URL
+        $validURL = GetValidURL $IT_URL[0]
+        while($validURL -eq $null)
+        {
+                #build the RTF text
+                $replacedError = [System.String]::Format([System.Globalization.CultureInfo]::InvariantCulture, $localizationString.interaction_InvalidURL_FormatError, $IT_URL[0]);
+                $RTFText = GetErrorRTF ($localizationString.interaction_InvalidURL_Desc) ($replacedError);
+
+                #reprompt for input
+                $IT_URL = Get-DiagInput -ID ""IT_Invalid_URL"" -p @{""URL"" = $IT_URL; ""RTFText"" = $RTFText}
+                if($IT_URL -eq $null) {
+                      #Failed retriving URL
+                      return $null
+                }
+
+                $validURL = GetValidURL $IT_URL[0]
+        }
+    }
+
+    return GetWebNDFIncidentData $validURL $false
+}
+
+function IsUNCFormat($UNC)
+{
+     &{
+        $uri = [System.URI]($UNC);
+        $scheme = $uri.scheme;
+        if(($scheme -eq ""file"" ))
+        {
+            if($uri.IsUnc)
+            {
+                return $uri.LocalPath;
+            }
+        }
+        return $null;
+    }
+     trap [Exception]
+    {
+        return $null;
+    }
+}
+
+#function assumes passed in UNC is in \\host\share form (share can be missing)
+function ContainsInvalidUNCChars($UNC)
+{
+    &{
+        #will return an exception if the string has invalid characters
+        $ignoreResult = [System.IO.Path]::IsPathRooted($UNC)
+
+        #check the path for invalid characters
+        #remove the starting slashes
+        $tmp = $UNC.Substring(2)
+        $nextSlash = $tmp.IndexOf(""\"")
+        if(($nextSlash -lt 0) -or ($nextSlash -eq ($nextSlash.Length - 1)))
+        {
+            #string only contains hostname
+            #hostname is already validated in IsUNCFormat function
+            return $false
+        }
+        #remove host and backslash after host
+        $UNCPath = $tmp.Substring($nextSlash+1)
+
+        #under certain circumstances some of these make it through the above check
+        #so we do a direct sanity check here
+        if(!($UNCPath.IndexOfAny(@('/',':','*','?','""','<','>','|')) -eq -1))
+        {
+            return $true;
+        }
+
+        return $false;
+    }
+    trap [Exception]
+    {
+        return $true;
+    }
+}
+
+function GetValidUNC($CandidateUNC)
+{
+    $toReturn = $null
+
+    #is it valid
+    $unc = IsUNCFormat $CandidateUNC
+    if($unc)
+    {
+        $invalidChars = ContainsInvalidUNCChars $unc
+        if($invalidChars)
+        {
+            $toReturn = -1;
+        }
+        else
+        {
+            $toReturn = $unc
+        }
+    }
+
+    return $toReturn;
+}
+
+
+function GetUNCNDFIncidentData($UNC)
+{
+    #build entry point parameters
+    $haXML = ""<HelperAttributes><HelperAttribute><Name>UNCPath</Name><Type>AT_STRING</Type><Value><![CDATA["" + $UNC +  ""]]></Value></HelperAttribute></HelperAttributes>""
+    return @{""HelperClassName"" = ""SMBHelperClass""; ""HelperAttributes"" =$haXML}
+}
+
+function FileSharingEntry()
+{
+    $IT_UNC = Get-DiagInput -ID ""IT_UNC""
+    if($IT_UNC -eq $null) {
+      #Failed retriving UNC path
+      return $null
+    }
+
+    #assign input to non-array variable to facilitate usage and transform
+    $validUNC = GetValidUNC $IT_UNC[0]
+    while((!$validUNC) -or ($validUNC -eq -1))
+    {
+        #build the RTF text
+        #use original entry for re-prompt even though ""file://"" UNC may have been transformed
+        $replacedError = """";
+        if(!$validUNC)
+        {
+            $replacedError = [System.String]::Format([System.Globalization.CultureInfo]::InvariantCulture, $localizationString.interaction_InvalidUNC_FormatError, $IT_UNC[0]);
+        }
+        else
+        {
+            $replacedError = [System.String]::Format([System.Globalization.CultureInfo]::InvariantCulture, $localizationString.interaction_InvalidUNC_CharError, $IT_UNC[0]);
+        }
+        $RTFText = GetErrorRTF ($localizationString.interaction_InvalidUNC_Desc) ($replacedError);
+
+        #reprompt for input
+        $IT_UNC = Get-DiagInput -ID ""IT_Invalid_UNC"" -p @{""UNC"" = $IT_UNC; ""RTFText"" = $RTFText}
+        if($IT_UNC -eq $null) {
+              #Failed retriving UNC path
+              return $null
+        }
+
+        $validUNC = GetValidUNC $IT_UNC[0]
+    }
+
+    return GetUNCNDFIncidentData $validUNC
+}
+
+function NetworkAdapterEntry()
+{
+    #enumerate interfaces to build options list
+    $interfaces = get-wmiobject -class Win32_NetworkAdapter
+    #hash table with options
+    $optionList = @()
+    foreach($curInterface in $interfaces)
+    {
+        if($curInterface.GUID -ne $null)
+        {
+              $curHash = @{""Name""=$curInterface.NetConnectionID}
+              $curHash += @{""Description""=$curInterface.NetConnectionID}
+              $curHash += @{""Value""=$curInterface.GUID}
+
+              $optionList += @($curHash)
+        }
+    }
+
+    if($optionList.Count -gt 1)
+    {
+        #add zero guid entry to check all interfaces
+        $optionList += @(@{""Name""=$localizationString.interaction_AllAdapters; ""Description""=$localizationString.interaction_AllAdapters; ""Value""=""{00000000-0000-0000-0000-000000000000}""; ""ExtensionPoint""=""<Default />""})
+
+        #get interface selection from user
+        $IT_NetworkAdapter = Get-DiagInput -ID ""IT_NetworkAdapter"" -c $optionList
+
+        if($IT_NetworkAdapter -eq $null) {
+           throw ""Failed retriving Network Connetion ID from user""
+        }
+    }
+    elseif($optionList.Count -eq 1)
+    {
+        $IT_NetworkAdapter = $optionList[0][""Value""]
+    }
+    else
+    {
+        #No NICs, do zero GUID diag
+        $IT_NetworkAdapter = ""{00000000-0000-0000-0000-000000000000}""
+    }
+
+    #build entry point parameters
+    $haXML = ""<HelperAttributes><HelperAttribute><Name>guid</Name><Type>AT_GUID</Type><Value>"" + $IT_NetworkAdapter +  ""</Value></HelperAttribute></HelperAttributes>""
+    return @{""HelperClassName"" = ""NetConnection""; ""HelperAttributes"" =$haXML}
+}
+
+function WinsockEntry()
+{
+    $IT_RemoteAddress = Get-DiagInput -ID ""IT_RemoteAddress""
+    if($IT_RemoteAddress -eq $null -or  $IT_RemoteAddress[0].Length -eq 0) {
+      #Failed retriving Remote Address
+      return $null
+    }
+
+    $IT_Protocol = Get-DiagInput -ID ""IT_Protocol""
+    if($IT_Protocol -eq $null -or  $IT_Protocol[0].Length -eq 0) {
+      #Failed retriving Remote Port
+      return $null
+    }
+
+    $IT_ApplicationID = Get-DiagInput -ID ""IT_ApplicationID""
+    if($IT_ApplicationID -eq $null -or  $IT_ApplicationID[0].Length -eq 0) {
+      #Failed retriving Application ID
+      return $null
+    }
+
+    #build entry point parameters
+    $haXML = ""<HelperAttributes><HelperAttribute><Name>remoteaddr</Name><Type>AT_SOCKADDR</Type><Value>"" + $IT_RemoteAddress  +  ""</Value></HelperAttribute>"";
+    $haXML += ""<Hel
+
+ScriptBlock ID: 82e65e4b-cb92-4fb0-a859-891d218c9615
+Path: C:\Users\HP\AppData\Local\Temp\SDIAG_f83a9f43-235e-4974-ba5a-90864270ee15\UtilityFunctions.ps1","2024-07-07T21:20:07.000+0500",21,7,20,july,7,sunday,2024,local,,,"AYESHA-MALIHA",main,436,"//_::_=--/===-==-------==--====___=__=___(__):\r__,","WinEventLog:Microsoft-Windows-PowerShell/Operational","WinEventLog:Microsoft-Windows-PowerShell/Operational","Ayesha-Maliha",,23,0
+,,"Ayesha-Maliha",,4104,3,""" + $_.Exception.GetType().FullName + "" Message: "" + $_.Exception.Message  | convertto-xml | Update-DiagReport -id OpenExistingSessionFailure -name ""Open Existing Session"" -description ""Failed while opening existing NDF session."" -verbosity Debug",,,None,"Microsoft-Windows-PowerShell/Operational",,"Creating Scriptblock text (1 of 5):
+# Copyright © 2008, Microsoft Corporation. All rights reserved.
+
+function GetRuntimePath([string]$fileName = $(throw ""No file name is specified""))
+{
+    if([string]::IsNullorEmpty($fileName))
+    {
+        throw ""Invalid file name""
+    }
+
+     [string]$runtimePath =  [System.Runtime.InteropServices.RuntimeEnvironment]::GetRuntimeDirectory()
+     return Join-Path $runtimePath $fileName
+}
+
+function RegSnapin([string]$dllName = $(throw ""No dll is specified""))
+{
+    $dllPath = "".\"" + $dllName
+    Import-Module $dllPath
+}
+
+function UnregSnapin([string]$dllName = $(throw ""No dll is specified""))
+{    
+    $moduleName = $dllName.TrimEnd("".dll"")
+    Remove-Module $moduleName
+}
+
+function GetExistingNDFInstance($IncidentID)
+{
+    &{
+        #if fails we start a new session
+        $script:ExpectingException = $true
+        $ndf = new-object -comObject ndfapi.NetworkDiagnostics.1 -strict
+        $ndf.OpenExistingIncident($IncidentID); #throws exception if fails
+        $script:ExpectingException = $false
+        return $ndf
+    }
+    trap [Exception]
+    {
+        if($script:ExpectingException)
+        {
+            $script:ExpectingException = $false
+            ""Exception: "" + $_.Exception.GetType().FullName + "" Message: "" + $_.Exception.Message  | convertto-xml | Update-DiagReport -id OpenExistingSessionFailure -name ""Open Existing Session"" -description ""Failed while opening existing NDF session."" -verbosity Debug
+            return $null;
+        }
+        else
+        {
+            #rethrow exception
+            throw $_.Exception;
+        }
+    }
+}
+
+function WaitWithProgress($ActivityNoDetails, $WaitHandle, $Ndf)
+{
+    $lastProgress = $null
+    do {
+        $progress = $Ndf.Progress
+        if(($progress -ne $null) -and ($progress.Length -gt 0) -and !($progress -eq $lastProgress))
+        {
+           Write-DiagProgress -activity $progress
+            $lastProgress = $progress
+        }
+        elseif(($progress.Length -eq 0) -and !($ActivityNoDetails -eq $lastProgress))
+        {
+            #clear the last progress string, use alternate description of operation
+            Write-DiagProgress -activity $ActivityNoDetails
+            $lastProgress = $ActivityNoDetails
+        }
+
+        &{
+            $WaitHandle.Wait($ProgressUpdateDelay)
+            break
+        }
+        trap [Exception]
+        {
+            #timed out, continue waiting
+            continue
+        }
+    } while($true)
+}
+
+# if filtered mode is enabled and the root cause is not on the filter list then return TRUE
+function GetRootCauseFilterValue($RootCause, [ref]$FilterMode)
+{
+    #assume filtering is enabled
+    $filteringEnabled = $true;
+    if($FilterMode)
+    {
+        $FilterMode.value = 0;
+    }
+
+    $regValue = get-itemproperty -path hklm:\SYSTEM\CurrentControlSet\Control\NetDiagFx\Config  -name FilterMode -ErrorAction SilentlyContinue -ErrorVariable regError
+    if($regValue)
+    {
+        if($FilterMode)
+        {
+            $FilterMode.value = $regValue.FilterMode;
+        }
+        $filteringEnabled = !($regValue.FilterMode -eq $FM_DISABLED);
+    }
+    elseif($regError)
+    {
+        if(!($regError[0].CategoryInfo.Category -eq ""InvalidArgument"") -and !($regError[0].CategoryInfo.Category -eq ""ObjectNotFound""))
+        {
+            "" Warning: Unexpected error when reading FilterMode key: "" + $regError[0].CategoryInfo.Category | convertto-xml | Update-DiagReport -id UnexpectedRegError -name ""Unexpected Registry Error"" -verbosity Debug
+        }
+    }
+
+    if(!$filteringEnabled)
+    {
+        #allow all root causes
+        return $FV_NOTFILTERED;
+    }
+    else
+    {
+        #get the registry value and make the filtering decision
+        $rootCauseID = $RootCause.RootCauseID;
+        $regValue = get-itemproperty -path hklm:\SYSTEM\CurrentControlSet\Control\NetDiagFx\Config\RC  -name $rootCauseID -ErrorAction SilentlyContinue -ErrorVariable regError
+        if($regValue)
+        {
+            #root cause present, check the entry type
+            $filterValue = $regValue.$rootCauseID;
+            if($filterValue -eq 1)
+            {
+                #exclusion list, force enabled filter mode so that the RC is dropped
+                if($FilterMode)
+                {
+                    $FilterMode.value = $FM_ENABLED;
+                }
+                return $FV_FILTERED;
+            }
+            else
+            {
+                #inclusion list, not filtered
+                return $FV_NOTFILTERED;
+            }
+        }
+        else
+        {
+            if(!($regError[0].CategoryInfo.Category -eq ""InvalidArgument"") -and  !($regError[0].CategoryInfo.Category -eq ""ObjectNotFound""))
+            {
+                "" Warning: Unexpected error when reading Root Cause key : "" + $regError[0].CategoryInfo.Category | convertto-xml | Update-DiagReport -id UnexpectedRegError -name ""Unexpected Registry Error"" -verbosity Debug
+            }
+            #could not find root cause
+            return $FV_MISSING;
+        }
+    }
+}
+
+function GetCatchAllInformation($RootCauseEnum, [ref]$CatchAlls, [ref]$CatchAllsIndex, [ref]$CatchAllsAltRC)
+{
+    $localCatchAlls  = @{}; #will contain the RC's with catch all repairs, indexed by HC it applies to
+    $localCatchAllsIndex = @{}; #will hold the index of the catch-all in the root cause list
+    $localCatchAllsAltRC = @{}; #will contain the alternate RC ID for the catch all, if available, indexed by root cause
+
+    $rootCauseCount = $RootCauseEnum.Count;
+    $RootCauseEnum.Reset()
+    for($i=0; $i -lt $rootCauseCount; $i++)
+    {
+        $rootCause=$RootCauseEnum.Next;
+        $repairEnum = $rootCause.Repairs;
+        $repairCount = $repairEnum.Count;
+        $repairEnum.Reset();
+        for($curRep=0; $curRep -lt $repairCount; $curRep++)
+        {
+            $repair = $repairEnum.Next;
+            if($repair.Flags -band $RF_RESERVED_CA)
+            {
+                $altRC = GetExtensionValue ($repair.DescriptionEx) (""CatchAllRC"");
+
+                #HC's this applies to
+                $catchAllHCString =  GetExtensionValue ($repair.DescriptionEx) (""CatchAllHCs"");
+                if($catchAllHCString)
+                {
+                   #semi-colon separated
+                   $catchAllHCList = $catchAllHCString.Split("";"");
+                   for($curHC=0; $catchAllHCList[$curHC]; $curHC++)
+                   {
+                        #if a RC is filtered for this HC, this catch all will be used
+                        $localCatchAlls[$catchAllHCList[$curHC]]= $rootCause;
+                        if($altRC)
+                        {
+                            #store the alternate RC
+                            $localCatchAllsAltRC[$rootCause] = $altRC;
+                        }
+                   }
+                   #store the index
+                   $localCatchAllsIndex[$rootCause]= $i;
+                }
+                break;
+            }
+        }
+    }
+
+    #return back the values collected
+    if($CatchAlls)
+    {
+        $CatchAlls.value = $localCatchAlls;
+    }
+    if($CatchAllsIndex)
+    {
+        $CatchAllsIndex.value = $localCatchAllsIndex;
+    }
+    if($CatchAllsAltRC)
+    {
+        $CatchAllsAltRC.value = $localCatchAllsAltRC;
+    }
+}
+
+function GetParameters($DescriptionEx, $Params)
+{
+    $toReturn = @{};
+
+    #this is a XML based root cause, get replacement parameters
+    $paramEnum = $DescriptionEx.Parameters;
+    $paramCount = $paramEnum.Count;
+    $paramEnum.Reset()
+    for($curP=0;$curP -lt $paramCount; $curP++)
+    {
+        $param = $paramEnum.Next;
+        if($Params[$param.Name] -eq $null)
+        {
+            $toReturn += @{$param.Name = $param.Value}
+        }
+    }
+
+    return $toReturn;
+}
+
+function GetKeywords($DescriptionEx)
+{
+    if($DescriptionEx -eq $nul)
+    {
+        return """";
+    }
+
+    $toReturn = """";
+
+    #this is a XML based root cause, get replacement parameters
+    $paramEnum = $DescriptionEx.Extensions;
+    $paramCount = $paramEnum.Count;
+    $paramEnum.Reset()
+    for($curP=0;$curP -lt $paramCount; $curP++)
+    {
+        $param = $paramEnum.Next;
+        if($param.Name -eq ""Keyword"")
+        {
+            if($toReturn.Length -gt 0)
+            {
+                $toReturn += ""+"";
+            }
+            $toReturn += """""""" + $param.Value + """""""";
+        }
+    }
+
+    return $toReturn.Replace("" "", ""+"");
+}
+
+function GetExtensionValue($DescriptionEx, $ExtensionName)
+{
+    if($DescriptionEx)
+    {
+        $paramEnum = $DescriptionEx.Extensions;
+        $paramCount = $paramEnum.Count;
+        $paramEnum.Reset()
+        for($curP=0;$curP -lt $paramCount; $curP++)
+        {
+            $param = $paramEnum.Next;
+            if($param.Name -eq $ExtensionName)
+            {
+                return $param.Value;
+            }
+        }
+    }
+
+    return $null;
+}
+
+#are we an administrator or LUA?
+function IsAdmin()
+{
+    $identity = [System.Security.Principal.WindowsIdentity]::GetCurrent()
+    $principal = [System.Security.Principal.WindowsPrincipal]($identity)
+    return $principal.IsInRole([System.Security.Principal.WindowsBuiltInRole]::Administrator)
+}
+
+#the security boundary safe data now contains two items of information
+#(1) the incident ID GUID (without the { } brackets)
+#(2) flags: whether the process is LUA (0) or Admin (1)
+#the two items are separated by a semicolon
+function GetSBSData($IncidentID)
+{
+    $flags = 0
+    $admin = IsAdmin
+    if($admin)
+    {
+        $flags = 1
+    }
+
+    return $IncidentID.Substring(1,$IncidentID.Length-2) +"":""+$flags
+}
+
+#the function takes a security boundary safe data and splits it into
+#the incident ID GUID (putting back the {} brackets), and the
+#flags
+function SplitSBSData($SBSData, [ref]$IncidentID, [ref]$Flags)
+{
+    $IncidentID.value = ""{"" + $SBSData.Substring(0,$SBSData.IndexOf("":"")) + ""}""
+    $Flags.value = $SBSData.Substring($SBSData.IndexOf("":"")+1)
+}
+
+function GetInstanceHashCode($RootCause, $CatchAllInUse)
+{
+    $hashCode = """";
+
+    $repairEnum = $RootCause.Repairs;
+    $repairCount = $repairEnum.Count;
+    $repairEnum.Reset();
+    if($repairCount -gt 0)
+    {
+        $repair = $repairEnum.Next
+        if($CatchAllInUse)
+        {
+            #make sure we use the hash for the first catch-all repair
+            for($i=0; ($i -lt $repairEnum.Count) -and (!($repair.Flags -band $RF_RESERVED_CA)); $i++)
+            {
+                $repair = $repairEnum.Next;
+            }
+        }
+        $hashCode = $repair.Description.GetHashCode();
+    }
+    else
+    {
+        $hashCode = $RootCause.Description.GetHashCode();
+    }
+
+    return $hashCode;
+}
+
+function GetInstanceIDRC($RootCause, $CatchAlls, $CatchAllsAltRC)
+{
+
+    $rootCause = $RootCause;
+    $rootCauseID = $RootCause.RootCauseID;
+
+    #if catch all is in use, we need to use the catch all root cause information in the
+    #instance ID so that all catch-all matches go to the same root cause in the session
+    $catchAllInUse = $null;
+    $filterValue = GetRootCauseFilterValue ($RootCause) ($null);
+    if($filterValue -eq $FV_MISSING)
+    {
+        #rc is not in the filter list, catch all instance ID information should be used if present
+        $className = $rootCause.ClassName;
+        if($className)
+        {
+            #is there a chatch all fo the helper class?
+            $catchAllRC = $CatchAlls[$className];
+            if($catchAllRC)
+            {
+                #user the catch-all root cause
+                $rootCause = $catchAllRC;
+                #does the catch-all have an alternate root cause?
+                $altRCID = $CatchAllsAltRC[$catchAllRC];
+                if($altRCID)
+                {
+                    #use alternate root cause ID
+                    $rootCauseID = $catchAllsAltRC[$catchAllRC];
+                }
+                $catchAllInUse = $true;
+            }
+        }
+    }
+
+    $hashCode = GetInstanceHashCode($rootCause) ($catchAllInUse);
+    return $rootCauseID.Substring(1,$rootCauseID.Length-2) + "":"" + $hashCode;
+}
+
+function GetInstanceID($RootCauseIndex, $RootCauses, $CatchAlls, $CatchAllsAltRC)
+{
+    #approach for generating unique instance ID:
+    # (1) the root cause GUID (stripped of the { })
+    # (2) the hash code  of the first repair's text
+    #     the repair text is guaranteed to be unique betwee
+
+ScriptBlock ID: 82e65e4b-cb92-4fb0-a859-891d218c9615
+Path: C:\Users\HP\AppData\Local\Temp\SDIAG_f83a9f43-235e-4974-ba5a-90864270ee15\UtilityFunctions.ps1",,,,,"On create calls",,"C:\Users\HP\AppData\Local\Temp\SDIAG_f83a9f43-235e-4974-ba5a-90864270ee15\UtilityFunctions.ps1",,,2,"82e65e4b-cb92-4fb0-a859-891d218c9615",,"S-1-5-21-663109325-190050996-3763433200-1001",0,,"Microsoft-Windows-PowerShell","Execute a Remote Command",Warning,"NOT_TRANSLATED","Unexpected error when reading FilterMode key: "" + $regError[0].CategoryInfo.Category | convertto-xml | Update-DiagReport -id UnexpectedRegError -name ""Unexpected Registry Error"" -verbosity Debug
+Unexpected error when reading Root Cause key : "" + $regError[0].CategoryInfo.Category | convertto-xml | Update-DiagReport -id UnexpectedRegError -name ""Unexpected Registry Error"" -verbosity Debug","07/07/2024 09:20:07 PM
+LogName=Microsoft-Windows-PowerShell/Operational
+EventCode=4104
+EventType=3
+ComputerName=Ayesha-Maliha
+User=NOT_TRANSLATED
+Sid=S-1-5-21-663109325-190050996-3763433200-1001
+SidType=0
+SourceName=Microsoft-Windows-PowerShell
+Type=Warning
+RecordNumber=2
+Keywords=None
+TaskCategory=Execute a Remote Command
+OpCode=On create calls
+Message=Creating Scriptblock text (1 of 5):
+# Copyright © 2008, Microsoft Corporation. All rights reserved.
+
+function GetRuntimePath([string]$fileName = $(throw ""No file name is specified""))
+{
+    if([string]::IsNullorEmpty($fileName))
+    {
+        throw ""Invalid file name""
+    }
+
+     [string]$runtimePath =  [System.Runtime.InteropServices.RuntimeEnvironment]::GetRuntimeDirectory()
+     return Join-Path $runtimePath $fileName
+}
+
+function RegSnapin([string]$dllName = $(throw ""No dll is specified""))
+{
+    $dllPath = "".\"" + $dllName
+    Import-Module $dllPath
+}
+
+function UnregSnapin([string]$dllName = $(throw ""No dll is specified""))
+{    
+    $moduleName = $dllName.TrimEnd("".dll"")
+    Remove-Module $moduleName
+}
+
+function GetExistingNDFInstance($IncidentID)
+{
+    &{
+        #if fails we start a new session
+        $script:ExpectingException = $true
+        $ndf = new-object -comObject ndfapi.NetworkDiagnostics.1 -strict
+        $ndf.OpenExistingIncident($IncidentID); #throws exception if fails
+        $script:ExpectingException = $false
+        return $ndf
+    }
+    trap [Exception]
+    {
+        if($script:ExpectingException)
+        {
+            $script:ExpectingException = $false
+            ""Exception: "" + $_.Exception.GetType().FullName + "" Message: "" + $_.Exception.Message  | convertto-xml | Update-DiagReport -id OpenExistingSessionFailure -name ""Open Existing Session"" -description ""Failed while opening existing NDF session."" -verbosity Debug
+            return $null;
+        }
+        else
+        {
+            #rethrow exception
+            throw $_.Exception;
+        }
+    }
+}
+
+function WaitWithProgress($ActivityNoDetails, $WaitHandle, $Ndf)
+{
+    $lastProgress = $null
+    do {
+        $progress = $Ndf.Progress
+        if(($progress -ne $null) -and ($progress.Length -gt 0) -and !($progress -eq $lastProgress))
+        {
+           Write-DiagProgress -activity $progress
+            $lastProgress = $progress
+        }
+        elseif(($progress.Length -eq 0) -and !($ActivityNoDetails -eq $lastProgress))
+        {
+            #clear the last progress string, use alternate description of operation
+            Write-DiagProgress -activity $ActivityNoDetails
+            $lastProgress = $ActivityNoDetails
+        }
+
+        &{
+            $WaitHandle.Wait($ProgressUpdateDelay)
+            break
+        }
+        trap [Exception]
+        {
+            #timed out, continue waiting
+            continue
+        }
+    } while($true)
+}
+
+# if filtered mode is enabled and the root cause is not on the filter list then return TRUE
+function GetRootCauseFilterValue($RootCause, [ref]$FilterMode)
+{
+    #assume filtering is enabled
+    $filteringEnabled = $true;
+    if($FilterMode)
+    {
+        $FilterMode.value = 0;
+    }
+
+    $regValue = get-itemproperty -path hklm:\SYSTEM\CurrentControlSet\Control\NetDiagFx\Config  -name FilterMode -ErrorAction SilentlyContinue -ErrorVariable regError
+    if($regValue)
+    {
+        if($FilterMode)
+        {
+            $FilterMode.value = $regValue.FilterMode;
+        }
+        $filteringEnabled = !($regValue.FilterMode -eq $FM_DISABLED);
+    }
+    elseif($regError)
+    {
+        if(!($regError[0].CategoryInfo.Category -eq ""InvalidArgument"") -and !($regError[0].CategoryInfo.Category -eq ""ObjectNotFound""))
+        {
+            "" Warning: Unexpected error when reading FilterMode key: "" + $regError[0].CategoryInfo.Category | convertto-xml | Update-DiagReport -id UnexpectedRegError -name ""Unexpected Registry Error"" -verbosity Debug
+        }
+    }
+
+    if(!$filteringEnabled)
+    {
+        #allow all root causes
+        return $FV_NOTFILTERED;
+    }
+    else
+    {
+        #get the registry value and make the filtering decision
+        $rootCauseID = $RootCause.RootCauseID;
+        $regValue = get-itemproperty -path hklm:\SYSTEM\CurrentControlSet\Control\NetDiagFx\Config\RC  -name $rootCauseID -ErrorAction SilentlyContinue -ErrorVariable regError
+        if($regValue)
+        {
+            #root cause present, check the entry type
+            $filterValue = $regValue.$rootCauseID;
+            if($filterValue -eq 1)
+            {
+                #exclusion list, force enabled filter mode so that the RC is dropped
+                if($FilterMode)
+                {
+                    $FilterMode.value = $FM_ENABLED;
+                }
+                return $FV_FILTERED;
+            }
+            else
+            {
+                #inclusion list, not filtered
+                return $FV_NOTFILTERED;
+            }
+        }
+        else
+        {
+            if(!($regError[0].CategoryInfo.Category -eq ""InvalidArgument"") -and  !($regError[0].CategoryInfo.Category -eq ""ObjectNotFound""))
+            {
+                "" Warning: Unexpected error when reading Root Cause key : "" + $regError[0].CategoryInfo.Category | convertto-xml | Update-DiagReport -id UnexpectedRegError -name ""Unexpected Registry Error"" -verbosity Debug
+            }
+            #could not find root cause
+            return $FV_MISSING;
+        }
+    }
+}
+
+function GetCatchAllInformation($RootCauseEnum, [ref]$CatchAlls, [ref]$CatchAllsIndex, [ref]$CatchAllsAltRC)
+{
+    $localCatchAlls  = @{}; #will contain the RC's with catch all repairs, indexed by HC it applies to
+    $localCatchAllsIndex = @{}; #will hold the index of the catch-all in the root cause list
+    $localCatchAllsAltRC = @{}; #will contain the alternate RC ID for the catch all, if available, indexed by root cause
+
+    $rootCauseCount = $RootCauseEnum.Count;
+    $RootCauseEnum.Reset()
+    for($i=0; $i -lt $rootCauseCount; $i++)
+    {
+        $rootCause=$RootCauseEnum.Next;
+        $repairEnum = $rootCause.Repairs;
+        $repairCount = $repairEnum.Count;
+        $repairEnum.Reset();
+        for($curRep=0; $curRep -lt $repairCount; $curRep++)
+        {
+            $repair = $repairEnum.Next;
+            if($repair.Flags -band $RF_RESERVED_CA)
+            {
+                $altRC = GetExtensionValue ($repair.DescriptionEx) (""CatchAllRC"");
+
+                #HC's this applies to
+                $catchAllHCString =  GetExtensionValue ($repair.DescriptionEx) (""CatchAllHCs"");
+                if($catchAllHCString)
+                {
+                   #semi-colon separated
+                   $catchAllHCList = $catchAllHCString.Split("";"");
+                   for($curHC=0; $catchAllHCList[$curHC]; $curHC++)
+                   {
+                        #if a RC is filtered for this HC, this catch all will be used
+                        $localCatchAlls[$catchAllHCList[$curHC]]= $rootCause;
+                        if($altRC)
+                        {
+                            #store the alternate RC
+                            $localCatchAllsAltRC[$rootCause] = $altRC;
+                        }
+                   }
+                   #store the index
+                   $localCatchAllsIndex[$rootCause]= $i;
+                }
+                break;
+            }
+        }
+    }
+
+    #return back the values collected
+    if($CatchAlls)
+    {
+        $CatchAlls.value = $localCatchAlls;
+    }
+    if($CatchAllsIndex)
+    {
+        $CatchAllsIndex.value = $localCatchAllsIndex;
+    }
+    if($CatchAllsAltRC)
+    {
+        $CatchAllsAltRC.value = $localCatchAllsAltRC;
+    }
+}
+
+function GetParameters($DescriptionEx, $Params)
+{
+    $toReturn = @{};
+
+    #this is a XML based root cause, get replacement parameters
+    $paramEnum = $DescriptionEx.Parameters;
+    $paramCount = $paramEnum.Count;
+    $paramEnum.Reset()
+    for($curP=0;$curP -lt $paramCount; $curP++)
+    {
+        $param = $paramEnum.Next;
+        if($Params[$param.Name] -eq $null)
+        {
+            $toReturn += @{$param.Name = $param.Value}
+        }
+    }
+
+    return $toReturn;
+}
+
+function GetKeywords($DescriptionEx)
+{
+    if($DescriptionEx -eq $nul)
+    {
+        return """";
+    }
+
+    $toReturn = """";
+
+    #this is a XML based root cause, get replacement parameters
+    $paramEnum = $DescriptionEx.Extensions;
+    $paramCount = $paramEnum.Count;
+    $paramEnum.Reset()
+    for($curP=0;$curP -lt $paramCount; $curP++)
+    {
+        $param = $paramEnum.Next;
+        if($param.Name -eq ""Keyword"")
+        {
+            if($toReturn.Length -gt 0)
+            {
+                $toReturn += ""+"";
+            }
+            $toReturn += """""""" + $param.Value + """""""";
+        }
+    }
+
+    return $toReturn.Replace("" "", ""+"");
+}
+
+function GetExtensionValue($DescriptionEx, $ExtensionName)
+{
+    if($DescriptionEx)
+    {
+        $paramEnum = $DescriptionEx.Extensions;
+        $paramCount = $paramEnum.Count;
+        $paramEnum.Reset()
+        for($curP=0;$curP -lt $paramCount; $curP++)
+        {
+            $param = $paramEnum.Next;
+            if($param.Name -eq $ExtensionName)
+            {
+                return $param.Value;
+            }
+        }
+    }
+
+    return $null;
+}
+
+#are we an administrator or LUA?
+function IsAdmin()
+{
+    $identity = [System.Security.Principal.WindowsIdentity]::GetCurrent()
+    $principal = [System.Security.Principal.WindowsPrincipal]($identity)
+    return $principal.IsInRole([System.Security.Principal.WindowsBuiltInRole]::Administrator)
+}
+
+#the security boundary safe data now contains two items of information
+#(1) the incident ID GUID (without the { } brackets)
+#(2) flags: whether the process is LUA (0) or Admin (1)
+#the two items are separated by a semicolon
+function GetSBSData($IncidentID)
+{
+    $flags = 0
+    $admin = IsAdmin
+    if($admin)
+    {
+        $flags = 1
+    }
+
+    return $IncidentID.Substring(1,$IncidentID.Length-2) +"":""+$flags
+}
+
+#the function takes a security boundary safe data and splits it into
+#the incident ID GUID (putting back the {} brackets), and the
+#flags
+function SplitSBSData($SBSData, [ref]$IncidentID, [ref]$Flags)
+{
+    $IncidentID.value = ""{"" + $SBSData.Substring(0,$SBSData.IndexOf("":"")) + ""}""
+    $Flags.value = $SBSData.Substring($SBSData.IndexOf("":"")+1)
+}
+
+function GetInstanceHashCode($RootCause, $CatchAllInUse)
+{
+    $hashCode = """";
+
+    $repairEnum = $RootCause.Repairs;
+    $repairCount = $repairEnum.Count;
+    $repairEnum.Reset();
+    if($repairCount -gt 0)
+    {
+        $repair = $repairEnum.Next
+        if($CatchAllInUse)
+        {
+            #make sure we use the hash for the first catch-all repair
+            for($i=0; ($i -lt $repairEnum.Count) -and (!($repair.Flags -band $RF_RESERVED_CA)); $i++)
+            {
+                $repair = $repairEnum.Next;
+            }
+        }
+        $hashCode = $repair.Description.GetHashCode();
+    }
+    else
+    {
+        $hashCode = $RootCause.Description.GetHashCode();
+    }
+
+    return $hashCode;
+}
+
+function GetInstanceIDRC($RootCause, $CatchAlls, $CatchAllsAltRC)
+{
+
+    $rootCause = $RootCause;
+    $rootCauseID = $RootCause.RootCauseID;
+
+    #if catch all is in use, we need to use the catch all root cause information in the
+    #instance ID so that all catch-all matches go to the same root cause in the session
+    $catchAllInUse = $null;
+    $filterValue = GetRootCauseFilterValue ($RootCause) ($null);
+    if($filterValue -eq $FV_MISSING)
+    {
+        #rc is not in the filter list, catch all instance ID information should be used if present
+        $className = $rootCause.ClassName;
+        if($className)
+        {
+            #is there a chatch all fo the helper class?
+            $catchAllRC = $CatchAlls[$className];
+            if($catchAllRC)
+            {
+                #user the catch-all root cause
+                $rootCause = $catchAllRC;
+                #does the catch-all have an alternate root cause?
+                $altRCID = $CatchAllsAltRC[$catchAllRC];
+                if($altRCID)
+                {
+                    #use alternate root cause ID
+                    $rootCauseID = $catchAllsAltRC[$catchAllRC];
+                }
+                $catchAllInUse = $true;
+            }
+        }
+    }
+
+    $hashCode = GetInstanceHashCode($rootCause) ($catchAllInUse);
+    return $rootCauseID.Substring(1,$rootCauseID.Length-2) + "":"" + $hashCode;
+}
+
+function GetInstanceID($RootCauseIndex, $RootCauses, $CatchAlls, $CatchAllsAltRC)
+{
+    #approach for generating unique instance ID:
+    # (1) the root cause GUID (stripped of the { })
+    # (2) the hash code  of the first repair's text
+    #     the repair text is guaranteed to be unique betwee
+
+ScriptBlock ID: 82e65e4b-cb92-4fb0-a859-891d218c9615
+Path: C:\Users\HP\AppData\Local\Temp\SDIAG_f83a9f43-235e-4974-ba5a-90864270ee15\UtilityFunctions.ps1","2024-07-07T21:20:07.000+0500",21,7,20,july,7,sunday,2024,local,,"whether the process is LUA (0) or Admin (1)","AYESHA-MALIHA",main,400,"//_::_=--/===-==-------==--====___=__=___(__):\r#__","WinEventLog:Microsoft-Windows-PowerShell/Operational","WinEventLog:Microsoft-Windows-PowerShell/Operational","Ayesha-Maliha",,23,0
+,,"DESKTOP-0IT0TAA",,1005,4,,,,Classic,Application,,"The Windows Search Service has successfully created the new search index.",,,,,"NOTE:  This dummy error message is necessary to force MC to output        the above defines inside the FACILITY_WINDOWS guard instead        of leaving it empty.",,,,,88,,,,,,"Microsoft-Windows-Search","Search service",Information,,,"07/07/2024 04:02:59 PM
+LogName=Application
+EventCode=1005
+EventType=4
+ComputerName=DESKTOP-0IT0TAA
+SourceName=Microsoft-Windows-Search
+Type=Information
+RecordNumber=88
+Keywords=Classic
+TaskCategory=Search service
+OpCode=NOTE:  This dummy error message is necessary to force MC to output        the above defines inside the FACILITY_WINDOWS guard instead        of leaving it empty.
+Message=The Windows Search Service has successfully created the new search index.","2024-07-07T16:02:59.000+0500",16,7,2,july,59,sunday,2024,local,,,"AYESHA-MALIHA",main,12,"//_::_====-=--====_=:_____________________________","WinEventLog:Application","WinEventLog:Application","Ayesha-Maliha",,23,0
+,,"DESKTOP-0IT0TAA",,1004,4,,,,Classic,Application,,"The Windows Search service is creating the new search index {Reason: Full Index Reset}.",,,,,"NOTE:  This dummy error message is necessary to force MC to output        the above defines inside the FACILITY_WINDOWS guard instead        of leaving it empty.",,,,,83,,,,,,"Microsoft-Windows-Search","Search service",Information,,,"07/07/2024 04:02:56 PM
+LogName=Application
+EventCode=1004
+EventType=4
+ComputerName=DESKTOP-0IT0TAA
+SourceName=Microsoft-Windows-Search
+Type=Information
+RecordNumber=83
+Keywords=Classic
+TaskCategory=Search service
+OpCode=NOTE:  This dummy error message is necessary to force MC to output        the above defines inside the FACILITY_WINDOWS guard instead        of leaving it empty.
+Message=The Windows Search service is creating the new search index {Reason: Full Index Reset}.","2024-07-07T16:02:56.000+0500",16,7,2,july,56,sunday,2024,local,,,"AYESHA-MALIHA",main,12,"//_::_====-=--====_=:_____________________________","WinEventLog:Application","WinEventLog:Application","Ayesha-Maliha",,23,0
+,,"DESKTOP-0IT0TAA",,1010,4,,,,Classic,Application,,"The Windows Search Service has successfully removed the old search index.",,,,,"NOTE:  This dummy error message is necessary to force MC to output        the above defines inside the FACILITY_WINDOWS guard instead        of leaving it empty.",,,,,82,,,,,,"Microsoft-Windows-Search","Search service",Information,,,"07/07/2024 04:02:56 PM
+LogName=Application
+EventCode=1010
+EventType=4
+ComputerName=DESKTOP-0IT0TAA
+SourceName=Microsoft-Windows-Search
+Type=Information
+RecordNumber=82
+Keywords=Classic
+TaskCategory=Search service
+OpCode=NOTE:  This dummy error message is necessary to force MC to output        the above defines inside the FACILITY_WINDOWS guard instead        of leaving it empty.
+Message=The Windows Search Service has successfully removed the old search index.","2024-07-07T16:02:56.000+0500",16,7,2,july,56,sunday,2024,local,,,"AYESHA-MALIHA",main,12,"//_::_====-=--====_=:_____________________________","WinEventLog:Application","WinEventLog:Application","Ayesha-Maliha",,23,0
+,,"DESKTOP-0IT0TAA",,1008,3,,,,Classic,Application,,"The Windows Search Service is starting up and attempting to remove the old search index {Reason: Full Index Reset}.",,,,,"NOTE:  This dummy error message is necessary to force MC to output        the above defines inside the FACILITY_WINDOWS guard instead        of leaving it empty.",,,,,81,,,,,,"Microsoft-Windows-Search","Search service",Warning,,,"07/07/2024 04:02:56 PM
+LogName=Application
+EventCode=1008
+EventType=3
+ComputerName=DESKTOP-0IT0TAA
+SourceName=Microsoft-Windows-Search
+Type=Warning
+RecordNumber=81
+Keywords=Classic
+TaskCategory=Search service
+OpCode=NOTE:  This dummy error message is necessary to force MC to output        the above defines inside the FACILITY_WINDOWS guard instead        of leaving it empty.
+Message=The Windows Search Service is starting up and attempting to remove the old search index {Reason: Full Index Reset}.","2024-07-07T16:02:56.000+0500",16,7,2,july,56,sunday,2024,local,,,"AYESHA-MALIHA",main,12,"//_::_====-=--====_=:_____________________________","WinEventLog:Application","WinEventLog:Application","Ayesha-Maliha",,23,0
